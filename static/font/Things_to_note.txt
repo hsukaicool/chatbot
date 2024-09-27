@@ -1,0 +1,7 @@
+You must copy the font style and change the file extension
+
+你必須複製字體樣式，並且更改副檔名
+新增
+
+tsuhsianti-proportional2.0.woff
+tsuhsianti-proportional2.0.woff2
